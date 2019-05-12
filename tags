@@ -1,0 +1,334 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.2.2	//
+ADDR3_OFFSET	zulu.c	28;"	d	file:
+ADDR4_OFFSET	zulu.c	29;"	d	file:
+ADDR_LEN	zulu.c	25;"	d	file:
+AP_TABLE_SIZE	include/wlaninfo.h	11;"	d
+BEAC_INT_LEN	zulu.c	43;"	d	file:
+BEAC_INT_OFFSET	zulu.c	40;"	d	file:
+CC	Makefile	/^CC = gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g -DDEBUG$/;"	m
+CLI_ST_ASSOING	include/wlaninfo.h	23;"	d
+CLI_ST_PROBING	include/wlaninfo.h	22;"	d
+CLI_ST_REASING	include/wlaninfo.h	24;"	d
+CLI_ST_XMITING	include/wlaninfo.h	25;"	d
+CL_TABLE_SIZE	include/wlaninfo.h	12;"	d
+CONSERVATIVE_PACK_LEN	include/zulu.h	11;"	d
+DEFAULT_BEACON_INT	main.c	30;"	d	file:
+DEFAULT_CHANNEL	main.c	34;"	d	file:
+DEFAULT_DELAY	main.c	31;"	d	file:
+DEFAULT_DES_MAC	main.c	36;"	d	file:
+DEFAULT_NO_FRAMES_TO_SEND	main.c	37;"	d	file:
+DEFAULT_PACK_SIZE	main.c	29;"	d	file:
+DEFAULT_SRC_MAC	main.c	35;"	d	file:
+DISASS_RSN_LEN	zulu.c	46;"	d	file:
+DISASS_RSN_OFFSET	zulu.c	45;"	d	file:
+DISPLAY_MAC	include/macros.h	6;"	d
+DST_OFFSET	zulu.c	26;"	d	file:
+ETH_P_80211_RAW	socklib.c	17;"	d	file:
+GCC_PREFIX	Makefile	/^GCC_PREFIX=$/;"	m
+GET_FFROMDS	include/p80211.h	199;"	d
+GET_FMDATA	include/p80211.h	203;"	d
+GET_FMFRAGS	include/p80211.h	200;"	d
+GET_FORDER	include/p80211.h	205;"	d
+GET_FPMGMT	include/p80211.h	202;"	d
+GET_FRETRY	include/p80211.h	201;"	d
+GET_FSUBTYPE	include/p80211.h	197;"	d
+GET_FTODS	include/p80211.h	198;"	d
+GET_FTYPE	include/p80211.h	196;"	d
+GET_FVERSION	include/p80211.h	195;"	d
+GET_FWEP	include/p80211.h	204;"	d
+INC	Makefile	/^INC = -I.\/include\/ -I..\/include\/$/;"	m
+INCLUDE_DIR	Makefile	/^INCLUDE_DIR=.\/include\/$/;"	m
+MAX_BUFLEN	zulu.c	19;"	d	file:
+MAX_DEVICE_LEN	main.c	33;"	d	file:
+MAX_HACK_SSID	zulu.c	42;"	d	file:
+MAX_IE_DATA_LEN	include/p80211.h	216;"	d
+MAX_PACK_LEN	include/zulu.h	10;"	d
+PACK_ADD	include/zulu.h	16;"	d
+SRC_OFFSET	zulu.c	27;"	d	file:
+SSID_LEN_OFFSET	zulu.c	35;"	d	file:
+SSID_LEN_OFFSET	zulu.c	38;"	d	file:
+SSID_OFFSET	zulu.c	36;"	d	file:
+SSID_OFFSET	zulu.c	39;"	d	file:
+STR_MAC_LEN	main.c	32;"	d	file:
+TYPE_ASS_RESP	main.c	26;"	d	file:
+TYPE_BW_HOG	main.c	18;"	d	file:
+TYPE_FRG_ARBIT_IE_PROBE_REQ	main.c	27;"	d	file:
+TYPE_FRG_ASS	main.c	20;"	d	file:
+TYPE_FRG_AUTH	main.c	24;"	d	file:
+TYPE_FRG_AUTH_SHARED	main.c	25;"	d	file:
+TYPE_FRG_BEACON	main.c	16;"	d	file:
+TYPE_FRG_DATA_FROMDS	main.c	22;"	d	file:
+TYPE_FRG_DATA_TODS	main.c	21;"	d	file:
+TYPE_FRG_DISASS	main.c	17;"	d	file:
+TYPE_FRG_PROBE_REQ	main.c	23;"	d	file:
+TYPE_UNKNOWN	main.c	15;"	d	file:
+TYPE_WLAN_SPY	main.c	19;"	d	file:
+WLAN_1ADDR_HDR_LEN	include/p80211.h	17;"	d
+WLAN_2ADDR_HDR_LEN	include/p80211.h	18;"	d
+WLAN_3ADDR_HDR_LEN	include/p80211.h	19;"	d
+WLAN_4ADDR_HDR_LEN	include/p80211.h	20;"	d
+WLAN_ADDR_LEN	include/p80211.h	11;"	d
+WLAN_BEACON_BI_OFFSET	include/p80211.h	225;"	d
+WLAN_BEACON_CAP_OFFSET	include/p80211.h	226;"	d
+WLAN_BEACON_CAP_WEP_MASK	include/p80211.h	227;"	d
+WLAN_BEACON_FIXED_PARAM_LEN	include/p80211.h	223;"	d
+WLAN_BEACON_TIMS_OFFSET	include/p80211.h	224;"	d
+WLAN_BROADCAST_ADDR	include/zulu.h	19;"	d
+WLAN_CTRL_ACK	include/p80211.h	63;"	d
+WLAN_CTRL_CFEND	include/p80211.h	64;"	d
+WLAN_CTRL_CFEND_ACK	include/p80211.h	65;"	d
+WLAN_CTRL_CTS	include/p80211.h	62;"	d
+WLAN_CTRL_PSPOLL	include/p80211.h	60;"	d
+WLAN_CTRL_RESV1	include/p80211.h	50;"	d
+WLAN_CTRL_RESV10	include/p80211.h	59;"	d
+WLAN_CTRL_RESV2	include/p80211.h	51;"	d
+WLAN_CTRL_RESV3	include/p80211.h	52;"	d
+WLAN_CTRL_RESV4	include/p80211.h	53;"	d
+WLAN_CTRL_RESV5	include/p80211.h	54;"	d
+WLAN_CTRL_RESV6	include/p80211.h	55;"	d
+WLAN_CTRL_RESV7	include/p80211.h	56;"	d
+WLAN_CTRL_RESV8	include/p80211.h	57;"	d
+WLAN_CTRL_RESV9	include/p80211.h	58;"	d
+WLAN_CTRL_RTS	include/p80211.h	61;"	d
+WLAN_DATA_ACK	include/p80211.h	73;"	d
+WLAN_DATA_ACKPOLL	include/p80211.h	75;"	d
+WLAN_DATA_DACK	include/p80211.h	69;"	d
+WLAN_DATA_DACKPOLL	include/p80211.h	71;"	d
+WLAN_DATA_DATA	include/p80211.h	68;"	d
+WLAN_DATA_DPOLL	include/p80211.h	70;"	d
+WLAN_DATA_MAXLEN	include/p80211.h	15;"	d
+WLAN_DATA_NULL	include/p80211.h	72;"	d
+WLAN_DATA_POLL	include/p80211.h	74;"	d
+WLAN_DATA_RESV1	include/p80211.h	76;"	d
+WLAN_DATA_RESV2	include/p80211.h	77;"	d
+WLAN_DATA_RESV3	include/p80211.h	78;"	d
+WLAN_DATA_RESV4	include/p80211.h	79;"	d
+WLAN_DATA_RESV5	include/p80211.h	80;"	d
+WLAN_DATA_RESV6	include/p80211.h	81;"	d
+WLAN_DATA_RESV7	include/p80211.h	82;"	d
+WLAN_DATA_RESV8	include/p80211.h	83;"	d
+WLAN_DEFAULT_AUTH_ALGO	include/zulu.h	32;"	d
+WLAN_DEFAULT_AUTH_SEQ	include/zulu.h	33;"	d
+WLAN_DEFAULT_CAPA_ASS	include/zulu.h	29;"	d
+WLAN_DEFAULT_CAPA_BEAC	include/zulu.h	26;"	d
+WLAN_DEFAULT_CHANNEL	include/zulu.h	21;"	d
+WLAN_DEFAULT_LISTEN_INT	include/zulu.h	30;"	d
+WLAN_DEFAULT_SSID	include/zulu.h	20;"	d
+WLAN_DEFAULT_SUPPR	include/zulu.h	24;"	d
+WLAN_DEFAULT_SUPPR_LEN	include/zulu.h	25;"	d
+WLAN_DEFAULT_TIM	include/zulu.h	22;"	d
+WLAN_DEFAULT_TIM_LEN	include/zulu.h	23;"	d
+WLAN_FCS_LEN	include/p80211.h	12;"	d
+WLAN_FTYPE_CTRL	include/p80211.h	27;"	d
+WLAN_FTYPE_DATA	include/p80211.h	28;"	d
+WLAN_FTYPE_MGMT	include/p80211.h	26;"	d
+WLAN_FTYPE_RESV	include/p80211.h	29;"	d
+WLAN_IE_CFSET	include/p80211.h	115;"	d
+WLAN_IE_CHALTXT	include/p80211.h	127;"	d
+WLAN_IE_DSSET	include/p80211.h	114;"	d
+WLAN_IE_FHSET	include/p80211.h	113;"	d
+WLAN_IE_IBSSSET	include/p80211.h	117;"	d
+WLAN_IE_RESV1	include/p80211.h	118;"	d
+WLAN_IE_RESV10	include/p80211.h	128;"	d
+WLAN_IE_RESV11	include/p80211.h	129;"	d
+WLAN_IE_RESV2	include/p80211.h	119;"	d
+WLAN_IE_RESV3	include/p80211.h	120;"	d
+WLAN_IE_RESV4	include/p80211.h	121;"	d
+WLAN_IE_RESV5	include/p80211.h	122;"	d
+WLAN_IE_RESV6	include/p80211.h	123;"	d
+WLAN_IE_RESV7	include/p80211.h	124;"	d
+WLAN_IE_RESV8	include/p80211.h	125;"	d
+WLAN_IE_RESV9	include/p80211.h	126;"	d
+WLAN_IE_SSID	include/p80211.h	111;"	d
+WLAN_IE_SUPPR	include/p80211.h	112;"	d
+WLAN_IE_TIM	include/p80211.h	116;"	d
+WLAN_MGMT_AS_REQ	include/p80211.h	32;"	d
+WLAN_MGMT_AS_RES	include/p80211.h	33;"	d
+WLAN_MGMT_ATIM	include/p80211.h	41;"	d
+WLAN_MGMT_AUTH	include/p80211.h	43;"	d
+WLAN_MGMT_BEACON	include/p80211.h	40;"	d
+WLAN_MGMT_DEAUTH	include/p80211.h	44;"	d
+WLAN_MGMT_DISAS	include/p80211.h	42;"	d
+WLAN_MGMT_PROB_REQ	include/p80211.h	36;"	d
+WLAN_MGMT_PROB_RES	include/p80211.h	37;"	d
+WLAN_MGMT_REAS_REQ	include/p80211.h	34;"	d
+WLAN_MGMT_REAS_RES	include/p80211.h	35;"	d
+WLAN_MGMT_RESV1	include/p80211.h	38;"	d
+WLAN_MGMT_RESV2	include/p80211.h	39;"	d
+WLAN_MGMT_RESV3	include/p80211.h	45;"	d
+WLAN_MGMT_RESV4	include/p80211.h	46;"	d
+WLAN_MGMT_RESV5	include/p80211.h	47;"	d
+WLAN_PROTO_VER	include/p80211.h	23;"	d
+WLAN_RSN_2REC_UNAUTH	include/p80211.h	138;"	d
+WLAN_RSN_3REC_UNAS	include/p80211.h	139;"	d
+WLAN_RSN_ASB4AUTH	include/p80211.h	141;"	d
+WLAN_RSN_AUTH_NOVAL	include/p80211.h	134;"	d
+WLAN_RSN_DEAUTH	include/p80211.h	135;"	d
+WLAN_RSN_DISAS	include/p80211.h	140;"	d
+WLAN_RSN_DISAS_FULL	include/p80211.h	137;"	d
+WLAN_RSN_DISAS_INAC	include/p80211.h	136;"	d
+WLAN_RSN_RESV1	include/p80211.h	132;"	d
+WLAN_RSN_RESV1	include/p80211.h	142;"	d
+WLAN_RSN_UNSPEC	include/p80211.h	133;"	d
+WLAN_SSID_MAXLEN	include/p80211.h	14;"	d
+WLAN_STAT_AS_BADBSS	include/p80211.h	104;"	d
+WLAN_STAT_AS_BADCHAGL	include/p80211.h	107;"	d
+WLAN_STAT_AS_BADPBCC	include/p80211.h	106;"	d
+WLAN_STAT_AS_BADSHPRE	include/p80211.h	105;"	d
+WLAN_STAT_AS_DEN	include/p80211.h	98;"	d
+WLAN_STAT_AS_FULL	include/p80211.h	103;"	d
+WLAN_STAT_AUTH_BADSEQ	include/p80211.h	100;"	d
+WLAN_STAT_AUTH_CHFAIL	include/p80211.h	101;"	d
+WLAN_STAT_AUTH_TMOUT	include/p80211.h	102;"	d
+WLAN_STAT_AUTH_UNSUPP	include/p80211.h	99;"	d
+WLAN_STAT_NOSUPP	include/p80211.h	96;"	d
+WLAN_STAT_REAS_DEN	include/p80211.h	97;"	d
+WLAN_STAT_RESV1	include/p80211.h	88;"	d
+WLAN_STAT_RESV2	include/p80211.h	89;"	d
+WLAN_STAT_RESV3	include/p80211.h	90;"	d
+WLAN_STAT_RESV4	include/p80211.h	91;"	d
+WLAN_STAT_RESV5	include/p80211.h	92;"	d
+WLAN_STAT_RESV6	include/p80211.h	93;"	d
+WLAN_STAT_RESV7	include/p80211.h	94;"	d
+WLAN_STAT_RESV8	include/p80211.h	95;"	d
+WLAN_STAT_RESV9	include/p80211.h	108;"	d
+WLAN_STAT_SUCS	include/p80211.h	86;"	d
+WLAN_STAT_UNSPEC_FL	include/p80211.h	87;"	d
+WLAN_TIMESTAMP_LEN	include/zulu.h	27;"	d
+WLAN_WEP_IV_LEN	include/p80211.h	13;"	d
+ZULU_OBJS	Makefile	/^ZULU_OBJS = main.o socklib.o zulu.o analyzer.o llist.o wlaninfo.o$/;"	m
+__ANALYZER_H_	include/analyzer.h	2;"	d
+__LLIST_H_	include/llist.h	2;"	d
+__MACROS_H_	include/macros.h	2;"	d
+__P80211_H_	include/p80211.h	2;"	d
+__SOCKLIB_H_	include/socklib.h	2;"	d
+__WLANINFO_H_	include/wlaninfo.h	2;"	d
+__ZULU_H_	include/zulu.h	2;"	d
+_gen_llist	include/llist.h	/^typedef struct _gen_llist {$/;"	s
+_info_element	include/p80211.h	/^typedef struct _info_element {$/;"	s
+_linked_info_element	include/p80211.h	/^typedef struct _linked_info_element {$/;"	s
+_my_beacon_info_t	include/wlaninfo.h	/^typedef struct _my_beacon_info_t {$/;"	s
+_my_client_info_t	include/wlaninfo.h	/^typedef struct _my_client_info_t {$/;"	s
+_p80211_1a_t	include/p80211.h	/^typedef struct _p80211_1a_t {$/;"	s
+_p80211_2a_t	include/p80211.h	/^typedef struct _p80211_2a_t {$/;"	s
+_p80211_3a_t	include/p80211.h	/^typedef struct _p80211_3a_t {$/;"	s
+_p80211_4a_t	include/p80211.h	/^typedef struct _p80211_4a_t {$/;"	s
+_p80211_hdr_t	include/p80211.h	/^typedef union _p80211_hdr_t {$/;"	u
+abort	main.c	/^void abort() {$/;"	f
+add_list_item	llist.c	/^int add_list_item(gen_llist **phead,gen_llist *new_node,unsigned int size) {$/;"	f
+analyze_packet	analyzer.c	/^int analyze_packet(unsigned char *packet, unsigned int pack_len) {$/;"	f
+ap_list	include/wlaninfo.h	/^}ap_list;$/;"	t
+apl	wlaninfo.c	/^static ap_list  apl[AP_TABLE_SIZE];$/;"	v	file:
+apl_tag	wlaninfo.c	/^static __u8	apl_tag[AP_TABLE_SIZE];$/;"	v	file:
+beacon_interval	include/wlaninfo.h	/^	__u16	beacon_interval;$/;"	m	struct:_my_beacon_info_t
+bw_hog	zulu.c	/^int bw_hog(int fd_sock,unsigned char *src_mac,unsigned int pack_size, int count) $/;"	f
+channel	include/wlaninfo.h	/^	__u8	channel;$/;"	m	struct:_my_beacon_info_t
+cl_list	include/wlaninfo.h	/^}cl_list;$/;"	t
+client_states	wlaninfo.c	/^static char client_states[][16] = { "Probing", "Associating", "Re-ass", "Xmitting" };$/;"	v	file:
+cll	wlaninfo.c	/^static cl_list  cll[CL_TABLE_SIZE];$/;"	v	file:
+cll_tag	wlaninfo.c	/^static __u8	cll_tag[CL_TABLE_SIZE];$/;"	v	file:
+ctoi	main.c	/^int ctoi(int c) {$/;"	f
+data	include/p80211.h	/^	unsigned char *data;$/;"	m	struct:_linked_info_element
+data	include/p80211.h	/^	unsigned char data[MAX_IE_DATA_LEN];$/;"	m	struct:_info_element
+delay	main.c	/^unsigned int delay;$/;"	v
+dest_mac	include/wlaninfo.h	/^	__u8	dest_mac[WLAN_ADDR_LEN];$/;"	m	struct:_my_client_info_t
+display_wlan_stats	wlaninfo.c	/^void display_wlan_stats() {$/;"	f
+duration_id	include/p80211.h	/^	__u16	duration_id;$/;"	m	struct:_p80211_1a_t
+duration_id	include/p80211.h	/^	__u16	duration_id;$/;"	m	struct:_p80211_2a_t
+duration_id	include/p80211.h	/^	__u16	duration_id;$/;"	m	struct:_p80211_3a_t
+duration_id	include/p80211.h	/^	__u16	duration_id;$/;"	m	struct:_p80211_4a_t
+fc	include/p80211.h	/^	__u16	fc;$/;"	m	struct:_p80211_1a_t
+fc	include/p80211.h	/^	__u16	fc;$/;"	m	struct:_p80211_2a_t
+fc	include/p80211.h	/^	__u16	fc;$/;"	m	struct:_p80211_3a_t
+fc	include/p80211.h	/^	__u16	fc;$/;"	m	struct:_p80211_4a_t
+fd_sock	main.c	/^int fd_sock;$/;"	v
+forge_Authentication	zulu.c	/^int forge_Authentication(int fd_sock, unsigned char *src_mac, unsigned char * dest_mac, int auth_type, int count) $/;"	f
+forge_Data	zulu.c	/^int forge_Data(int fd_sock, unsigned char *sender_mac, unsigned char *recv_mac, int ToDS, int count, unsigned char flags ) $/;"	f
+forge_Data_NULL	zulu.c	/^int forge_Data_NULL(int fd_sock, unsigned char *sender_mac, unsigned char *recv_mac, int ToDS, int count, unsigned char flags ) $/;"	f
+forge_ProbeRequest	zulu.c	/^int forge_ProbeRequest(int fd_sock, unsigned char *src_mac, char *ssid, int count, int arbitIE) $/;"	f
+forge_ap_flood_associate	zulu.c	/^int forge_ap_flood_associate(int fd_sock, unsigned char *src_mac, unsigned char *dest_mac, char *ssid, int count) $/;"	f
+forge_associate_resp	zulu.c	/^int forge_associate_resp(int fd_sock, unsigned char *src_mac, unsigned char *dest_mac, int count) $/;"	f
+forge_beacon	zulu.c	/^int forge_beacon(int fd_sock, unsigned char *src_mac, char *ssid, unsigned int beac_int, unsigned char channel, int count) $/;"	f
+forge_deauth	zulu.c	/^int forge_deauth(int fd_sock, unsigned char *src_mac, unsigned char *dest_mac, short int reason, int count) $/;"	f
+forge_disassoc	zulu.c	/^int forge_disassoc(int fd_sock, unsigned char *src_mac, unsigned char *dest_mac, short int reason, int count) $/;"	f
+forge_proberesponse	zulu.c	/^int forge_proberesponse(int fd_sock, unsigned char *src_mac, char *ssid, unsigned int beac_int, unsigned char channel, int count) $/;"	f
+free_ap_list	wlaninfo.c	/^int free_ap_list() {$/;"	f
+free_call_back	include/llist.h	/^	int	(*free_call_back)();$/;"	m	struct:_gen_llist
+free_client_list	wlaninfo.c	/^int free_client_list() {$/;"	f
+free_list	llist.c	/^int free_list(gen_llist *head) {$/;"	f
+gen_llist	include/llist.h	/^}gen_llist;$/;"	t
+get_next	llist.c	/^__u32 *get_next(gen_llist *from) {$/;"	f
+handle_data	analyzer.c	/^int handle_data(unsigned char *packet, unsigned int pack_len, p80211_hdr_t * p_phdr) {$/;"	f
+handle_mgmt	analyzer.c	/^int handle_mgmt(unsigned char *packet, unsigned int pack_len, p80211_hdr_t * p_phdr){$/;"	f
+handle_mgmt_beacon	analyzer.c	/^int handle_mgmt_beacon(unsigned char *p_raw_binf, unsigned int n_prem_len, p80211_hdr_t * p_phdr) {$/;"	f
+hard_beac	zulu.c	/^char hard_beac[]= "\\x80\\x00\\x00\\x00\\xff\\xff\\xff\\xff\\xff\\xff\\x00\\x40\\x96\\x45\\xfb\\xcc\\x00\\x40\\x96\\x45\\xfb\\xcc\\xf0\\x4d\\xac\\x00\\x00\\x00\\x00\\x00\\x00\\x41\\xa4\\x9c\\x15\\x00\\x00\\x00\\x64\\x00\\x21\\x00\\x00\\x0a\\x7a\\x75\\x6c\\x75\\x72\\x6f\\x63\\x6b\\x73\\x73\\x01\\x04\\x82\\x84\\x8b\\x96\\x03\\x01\\x01\\x05\\x04\\x01\\x02\\x00\\x00\\x85\\x1e\\x00\\x00\\x4c\\x0d\\x07\\x00\\xff\\x03\\x01\\x00\\x41\\x50\\x33\\x35\\x30\\x2d\\x34\\x35\\x66\\x62\\x30\\x63\\x00\\x00\\x00\\x00\\x02\\x00\\x00\\x22";$/;"	v
+hard_disassoc	zulu.c	/^char hard_disassoc[] = "\\xa0\\x00\\x00\\x00\\x00\\x06\\x25\\x17\\x5a\\x46\\x00\\x40\\x96\\x45\\xfb\\x0c\\x00\\x40\\x96\\x45\\xfb\\x0c\\xf0\\x4d\\x00\\x00\\x00\\x00\\x00\\x00\\x04\\x00";$/;"	v
+hdr1	include/p80211.h	/^	p80211_1a_t	hdr1;$/;"	m	union:_p80211_hdr_t
+hdr2	include/p80211.h	/^	p80211_2a_t	hdr2;$/;"	m	union:_p80211_hdr_t
+hdr3	include/p80211.h	/^	p80211_3a_t	hdr3;$/;"	m	union:_p80211_hdr_t
+hdr4	include/p80211.h	/^	p80211_4a_t	hdr4;	$/;"	m	union:_p80211_hdr_t
+id	include/p80211.h	/^	__u8	id;$/;"	m	struct:_info_element
+id	include/p80211.h	/^	__u8	id;$/;"	m	struct:_linked_info_element
+info_element	include/p80211.h	/^}info_element;$/;"	t
+init_ap_list	wlaninfo.c	/^int init_ap_list() {$/;"	f
+init_client_list	wlaninfo.c	/^int init_client_list() {$/;"	f
+init_list	llist.c	/^int init_list(gen_llist *head) {$/;"	f
+init_raw_sock	socklib.c	/^init_raw_sock(int *fd_sock, char *device) {$/;"	f
+init_spy_sock	socklib.c	/^init_spy_sock(int *fd_sock,char *device) {$/;"	f
+length	include/p80211.h	/^	__u8	length;$/;"	m	struct:_info_element
+length	include/p80211.h	/^	__u8	length;$/;"	m	struct:_linked_info_element
+linked_info_element	include/p80211.h	/^}linked_info_element;$/;"	t
+ll	include/p80211.h	/^	gen_llist ll;$/;"	m	struct:_linked_info_element
+ll	include/wlaninfo.h	/^	gen_llist ll;$/;"	m	struct:
+mac	include/wlaninfo.h	/^	__u8	mac[WLAN_ADDR_LEN];$/;"	m	struct:_my_beacon_info_t
+mac	include/wlaninfo.h	/^	__u8	mac[WLAN_ADDR_LEN];$/;"	m	struct:_my_client_info_t
+mac1	include/p80211.h	/^	__u8	mac1[WLAN_ADDR_LEN];$/;"	m	struct:_p80211_1a_t
+mac1	include/p80211.h	/^	__u8	mac1[WLAN_ADDR_LEN];$/;"	m	struct:_p80211_2a_t
+mac1	include/p80211.h	/^	__u8	mac1[WLAN_ADDR_LEN];$/;"	m	struct:_p80211_3a_t
+mac1	include/p80211.h	/^	__u8	mac1[WLAN_ADDR_LEN];$/;"	m	struct:_p80211_4a_t
+mac2	include/p80211.h	/^	__u8	mac2[WLAN_ADDR_LEN];$/;"	m	struct:_p80211_2a_t
+mac2	include/p80211.h	/^	__u8	mac2[WLAN_ADDR_LEN];$/;"	m	struct:_p80211_3a_t
+mac2	include/p80211.h	/^	__u8	mac2[WLAN_ADDR_LEN];$/;"	m	struct:_p80211_4a_t
+mac3	include/p80211.h	/^	__u8	mac3[WLAN_ADDR_LEN];$/;"	m	struct:_p80211_3a_t
+mac3	include/p80211.h	/^	__u8	mac3[WLAN_ADDR_LEN];$/;"	m	struct:_p80211_4a_t
+mac4	include/p80211.h	/^	__u8	mac4[WLAN_ADDR_LEN];$/;"	m	struct:_p80211_4a_t
+mac_hash_fn	wlaninfo.c	/^static unsigned int mac_hash_fn(__u8 mac[]) {$/;"	f	file:
+main	main.c	/^int main(int argc, char *argv[]) {$/;"	f
+mbi	include/wlaninfo.h	/^	my_beacon_info_t mbi;$/;"	m	struct:
+mci	include/wlaninfo.h	/^	my_client_info_t mci;$/;"	m	struct:
+min	include/macros.h	4;"	d
+min	main.c	/^static int min(int a,int b) {$/;"	f	file:
+my_beacon_info_t	include/wlaninfo.h	/^}my_beacon_info_t;$/;"	t
+my_client_info_t	include/wlaninfo.h	/^}my_client_info_t;$/;"	t
+next	include/llist.h	/^	void	*next;$/;"	m	struct:_gen_llist
+p80211_1a_t	include/p80211.h	/^}p80211_1a_t;$/;"	t
+p80211_2a_t	include/p80211.h	/^}p80211_2a_t;$/;"	t
+p80211_3a_t	include/p80211.h	/^}p80211_3a_t;$/;"	t
+p80211_4a_t	include/p80211.h	/^}p80211_4a_t;$/;"	t
+p80211_hdr_t	include/p80211.h	/^}p80211_hdr_t;$/;"	t
+packet_dump	zulu.c	/^int packet_dump(unsigned char *packet, unsigned int len) $/;"	f
+prev	include/llist.h	/^	void	*prev;$/;"	m	struct:_gen_llist
+random_mac	zulu.c	/^static int  random_mac(unsigned char *mac, unsigned char *rnd_mac,unsigned int offset) $/;"	f	file:
+read_buf	zulu.c	/^unsigned char read_buf[MAX_BUFLEN];$/;"	v
+read_packet	socklib.c	/^int read_packet(int fd_sock, char *buf, int buf_len) {$/;"	f
+register_call_back	llist.c	/^int register_call_back(gen_llist *node,int (*free_call_back)()) {$/;"	f
+seq_ctl	include/p80211.h	/^	__u16	seq_ctl;$/;"	m	struct:_p80211_1a_t
+seq_ctl	include/p80211.h	/^	__u16	seq_ctl;$/;"	m	struct:_p80211_2a_t
+seq_ctl	include/p80211.h	/^	__u16	seq_ctl;$/;"	m	struct:_p80211_3a_t
+seq_ctl	include/p80211.h	/^	__u16	seq_ctl;$/;"	m	struct:_p80211_4a_t
+shut_sock	socklib.c	/^shut_sock(int fd_sock) {$/;"	f
+ssid	include/wlaninfo.h	/^	__u8	ssid[WLAN_SSID_MAXLEN];$/;"	m	struct:_my_beacon_info_t
+state	include/wlaninfo.h	/^	__u8	state;$/;"	m	struct:_my_client_info_t
+stop	main.c	/^void stop() {$/;"	f
+str_to_mac	main.c	/^int str_to_mac(unsigned char *mac, unsigned char *str) {$/;"	f
+update_ap_list	wlaninfo.c	/^int update_ap_list(my_beacon_info_t *p_mbi) {$/;"	f
+update_client_list	wlaninfo.c	/^int update_client_list (my_client_info_t *p_mci) {$/;"	f
+usage	main.c	/^void usage(int argc, char *argv[]) {$/;"	f
+wep_status	include/wlaninfo.h	/^	__u8	wep_status;$/;"	m	struct:_my_beacon_info_t
+wlan_spy	zulu.c	/^int wlan_spy(int fd_sock) $/;"	f

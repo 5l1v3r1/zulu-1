@@ -1,0 +1,51 @@
+README for zulu generating controlled wireless traffic:
+--------------------------------------------------------------------
+
+1. Get the zulu source and compile.
+
+2. Get the drivers for the atheros card (madwifi-ng) and make sure you have the 
+   linux wireless tools installed (iwconfig).
+
+3. Set the card in Monitor mode for most people the below commands will place 
+   the card in Monitor mode.
+
+wlanconfig ath0 destroy
+wlanconfig ath0 create wlandev wifi0 wlanmode monitor
+ifconfig ath0 up
+   
+
+4.  Tips for command line parameters:
+-i : interface name (typically ath0)
+-s : Src MAC address (example 000102030405) without the ':'
+-d : Give in broadcast FFFFFFFFFFFF to avoid retries and ACK's
+--file : File name which contains the number of data,mgmt and ctrl frames. An
+example of the file is as follows:
+
+DATA 10
+MGMT 20
+CTRL 30
+
+This would generate 10 data frames, 20 MGMT frames and 30 control
+frames.
+
+There is no input checking on this file input. So PV guys please take
+it easy and give in the same order :)
+
+5. The script trafficgen.sh is the script which invokes zulu with the
+   parameters specified in the file. It is a trivial script and one
+   can also invoke it manually. The script takes in 3 parameters:
+   SRC_MAC and DEST_MAC and ESSID of the AP. 
+
+NOTE: This script is out of date and may no longer work. It will be 
+removed or updated in a future version.
+
+NOTE: This utility would only work in monitor mode as the card needs
+to remain fixed on a channel. Thus there could be some more traffic on
+the channel. You need to take this into account which verifying the
+pie charts. The essid used is "zulu" for the beacon frames. This
+way you can verify the number of beacons transmitted on this essid.
+
+If there is a sniffer available which is sniffing the wireless medium,
+then to verify the traffic generated you can use the gollowing grep
+commands:
+grep zulu d3 | wc -l // For Mgmt Frames
